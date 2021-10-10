@@ -15,7 +15,7 @@ namespace PlatziCSharp
             Console.Beep(2000, 3000);
         }
     }
-    class Program
+    class HolaMundo
     {
         static void Main(string[] args)
         {
